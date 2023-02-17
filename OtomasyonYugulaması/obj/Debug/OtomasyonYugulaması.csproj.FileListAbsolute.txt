@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\bin\Debug\OtomasyonYugulaması.exe.config
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\bin\Debug\OtomasyonYugulaması.exe
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\bin\Debug\OtomasyonYugulaması.pdb
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.Form1.resources
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.Properties.Resources.resources
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.csproj.GenerateResource.cache
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.exe
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.pdb
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.Form3.resources
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.Form2.resources
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.Form4.resources
+C:\Users\user\source\repos\OtomasyonYugulaması\OtomasyonYugulaması\obj\Debug\OtomasyonYugulaması.Form5.resources
